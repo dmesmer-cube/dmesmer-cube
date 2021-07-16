@@ -4,9 +4,7 @@ Currently, I am working on a Capstone Project in Cybersecurity focusing around s
 To conduct research for this project, I initiated a DOS attack on my home network by using Aireplay-ng and denying user access by decrypting WPA2 key connections.
 
 I post coding and development projects on GitHub, along with other projects that I am working on. 
-You can find some of my Python programs here, and other projects from languages/command lines I am learning.
-
-I am looking for internships in Cloud Server Administration/Computing, Linux/Bash, and other DevOps related opportunities.
+You can find some of my Python and PowerShell programs here, and other projects from languages/command lines I am learning.
 
 Thanks,
 -Davis M. 🙂
