@@ -1,9 +1,8 @@
 My name is Davis Mesmer and I am a Computer Information Systems Major at James Madison University.
 
-Currently, I am working on a Capstone Project in Cybersecurity focusing around simulating a DDOS attack on remote servers.
-To conduct research for this project, I initiated a DOS attack on my home network by using Aireplay-ng and denying user access by decrypting WPA2 key connections.
+Currently, I am working on a Capstone Project focusing on app development and requirements gathering.
 
-I post coding and development projects on GitHub, along with other projects that I am working on. 
+I post development projects on GitHub, along with other projects that I am working on. 
 You can find some of my Python and PowerShell programs here, and other projects from languages/command lines I am learning.
 
 Thanks,
